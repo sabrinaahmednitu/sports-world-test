@@ -3,7 +3,7 @@ import React from 'react';
 const OrderReview = () => {
     return (
         <div>
-            <h2>this is a project</h2>
+            <h2>this is a project page </h2>
         </div>
     );
 };
